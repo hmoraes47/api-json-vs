@@ -1,0 +1,16 @@
+C:\Users\Gabriela\source\repos\StatusLogAPI\bin\Debug\net5.0\StatusLogAPI.exe
+C:\Users\Gabriela\source\repos\StatusLogAPI\bin\Debug\net5.0\StatusLogAPI.deps.json
+C:\Users\Gabriela\source\repos\StatusLogAPI\bin\Debug\net5.0\StatusLogAPI.runtimeconfig.json
+C:\Users\Gabriela\source\repos\StatusLogAPI\bin\Debug\net5.0\StatusLogAPI.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\StatusLogAPI\bin\Debug\net5.0\StatusLogAPI.dll
+C:\Users\Gabriela\source\repos\StatusLogAPI\bin\Debug\net5.0\ref\StatusLogAPI.dll
+C:\Users\Gabriela\source\repos\StatusLogAPI\bin\Debug\net5.0\StatusLogAPI.pdb
+C:\Users\Gabriela\source\repos\StatusLogAPI\obj\Debug\net5.0\StatusLogAPI.csproj.AssemblyReference.cache
+C:\Users\Gabriela\source\repos\StatusLogAPI\obj\Debug\net5.0\StatusLogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\source\repos\StatusLogAPI\obj\Debug\net5.0\StatusLogAPI.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\StatusLogAPI\obj\Debug\net5.0\StatusLogAPI.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\StatusLogAPI\obj\Debug\net5.0\StatusLogAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\StatusLogAPI\obj\Debug\net5.0\StatusLogAPI.dll
+C:\Users\Gabriela\source\repos\StatusLogAPI\obj\Debug\net5.0\ref\StatusLogAPI.dll
+C:\Users\Gabriela\source\repos\StatusLogAPI\obj\Debug\net5.0\StatusLogAPI.pdb
+C:\Users\Gabriela\source\repos\StatusLogAPI\obj\Debug\net5.0\StatusLogAPI.genruntimeconfig.cache
